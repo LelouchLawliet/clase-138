@@ -1,0 +1,13 @@
+h1 {
+    width: 100%;
+    text-align: left;
+    display: inline;
+}
+#instrucciones {
+    float: right;
+    border: 2px solid white;
+
+}
+.portada{
+    width: 100%;
+}
